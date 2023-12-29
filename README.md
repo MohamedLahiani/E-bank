@@ -3,7 +3,7 @@
 Ce programme de gestion de banque a été développé en langage C pour gérer les comptes bancaires. Il offre des fonctionnalités de base telles que la création de nouveaux comptes, la modification, la consultation, et la suppression de comptes, ainsi que des fonctionnalités supplémentaires telles que l'affichage de la liste de tous les comptes, la somme totale des soldes et le nombre total de comptes.
 
 ## Fonctionnalités
-**Mot de passe :** il faut tout d'abbord entrer le mot de passe pour acceder a la plateforme ( le mot de apsse est maintenant initialisé a 0000) 
+**Mot de passe :** il faut tout d'abbord entrer le mot de passe pour acceder a la plateforme ( le mot de passe est maintenant initialisé a 0000) 
 
 1. **Nouveau Compte:** Permet de créer un nouveau compte bancaire en saisissant les détails du client , qui sont  :
      * Le jour de l'ouverture du compte (jj/mm/aaaa)
