@@ -6,20 +6,20 @@ Ce programme de gestion de banque a été développé en langage C pour gérer l
 **Mot de passe :** il faut tout d'abbord entrer le mot de passe pour acceder a la plateforme ( le mot de apsse est maintenant initialisé a 0000) 
 
 1. **Nouveau Compte:** Permet de créer un nouveau compte bancaire en saisissant les détails du client , qui sont  :
-     -Le jour de l'ouverture du compte (jj/mm/aaaa)
-     -Le numero du compte
-     -Le nom du client
-     -La date de naissance du client (jj/mm/aaaa)
-     -l'age du client
-     -L'adresse du client
-     -Le numero de la carte d'identite du client
-     -Le numero du telephone du client
-     -Le montant à déposer
-     -Le type du compte : #Compte d'Epargne
-                          #Compte courant
-                          #Compte fixe pour 1 ans
-                          #Compte fixe pour 2 ans
-                          #Compte fixe pour 3 ans
+     * Le jour de l'ouverture du compte (jj/mm/aaaa)
+     * Le numero du compte
+     * Le nom du client
+     * La date de naissance du client (jj/mm/aaaa)
+     * l'age du client
+     * L'adresse du client
+     * Le numero de la carte d'identite du client
+     * Le numero du telephone du client
+     * Le montant à déposer
+     * Le type du compte : # Compte d'Epargne
+                          # Compte courant
+                          # Compte fixe pour 1 ans
+                          # Compte fixe pour 2 ans
+                          # Compte fixe pour 3 ans
 
 3. **Modifier Compte:** Permet de mettre à jour les informations d'un compte existant, telles que l'adresse ou le numéro de telephone.
 
@@ -37,7 +37,8 @@ Ce programme de gestion de banque a été développé en langage C pour gérer l
 
 10. **Quitter:** Permet de quitter le programme.
 
-##Contribueur : Mohamed Lahiani
+## Contribueur :
+Mohamed Lahiani
 
 ## Comment Utiliser
 
