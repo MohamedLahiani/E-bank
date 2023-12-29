@@ -37,6 +37,8 @@ Ce programme de gestion de banque a été développé en langage C pour gérer l
 
 10. **Quitter:** Permet de quitter le programme.
 
+##Contribueur : Mohamed Lahiani
+
 ## Comment Utiliser
 
 1. Compilez le programme en utilisant un compilateur C.
